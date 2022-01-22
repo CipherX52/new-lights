@@ -2,7 +2,7 @@
 
 Basic app to turn a couple of 'lights' ON and OFF built using REACT.
 
-Hosted on Heroku [here]().
+Hosted on Heroku [here](https://new-lights.herokuapp.com/).
 
 Experimented with Material UI and Chakra UI.
 
